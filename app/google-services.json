@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "224036406701",
+    "firebase_url": "https://rasp-7e540.firebaseio.com",
+    "project_id": "rasp-7e540",
+    "storage_bucket": "rasp-7e540.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224036406701:android:c1574f1307ce20d4",
+        "android_client_info": {
+          "package_name": "com.softwork.rasp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224036406701-58frk62ajeifusr6mbfofbgklo8ddpsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlVLtIjI0-2dfxw0tCllDsTTr-fVPKoJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
